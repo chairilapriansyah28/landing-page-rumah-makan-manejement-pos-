@@ -1,0 +1,6 @@
+{
+  "name": "Alun-alun Mangkubumi",
+  "description": "Landing page and admin portal for RM Alun-alun Mangkubumi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
